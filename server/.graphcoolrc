@@ -1,0 +1,3 @@
+targets:
+  graph-chat-server: shared-eu-west-1/cjo1o5hdtemkj0139jydtab6a
+  default: graph-chat-server

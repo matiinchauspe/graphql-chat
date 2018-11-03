@@ -1,0 +1,25 @@
+.container {
+  width: 70%;
+  margin-top: 30px;
+  min-height: 500px;
+  background: #f5f5f5;
+  border-radius: 4px;
+}
+
+h2 {
+  font-size: 18px;
+  background: #3FB1DE;
+  padding: 15px;
+  color: #fff;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+input {
+  width: 100%;
+  border-radius: 0 !important;
+  border-bottom-left-radius: 4px !important;
+  border-bottom-right-radius: 4px !important;
+  position: absolute;
+  bottom: -20px;
+}
